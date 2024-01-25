@@ -1,0 +1,4 @@
+// expression ? true : false
+let accessAllowed = (age > 18) ? true : false;
+let age = 20;
+console.log(accessAllowed); // true
